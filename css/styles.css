@@ -429,7 +429,7 @@ img {
   align-items: baseline;
 }
 
-.footer-iteam:not(last-child) {
+.footer-iteam:not(:last-child) {
   margin-right: 70px;
 }
 
