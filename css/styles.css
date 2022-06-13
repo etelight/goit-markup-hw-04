@@ -209,6 +209,7 @@ img {
 /* ----------------Hero section*/
 
 .hero {
+  margin: 0 auto;
   padding-top: 200px;
   padding-bottom: 200px;
 
@@ -219,7 +220,7 @@ img {
   background-position: center;
   background-size: cover;
 
-  min-width: 1600px;
+  max-width: 1600px;
 }
 
 .hero-title {
